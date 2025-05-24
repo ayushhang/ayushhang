@@ -1,8 +1,10 @@
-<h1 align="left">hi ✌🏽, i'm ayush hang verma</h1>
-<h3 align="left">forte : machine learning , computer vision & graphics</h3>
+<h2 align="left">hi ✌🏽, i'm ayush hang verma</h1>
+<h4 align="left">machine learning, computer vision & graphics</h3>
 
 
 - 🏐 currently working on [object detection for surveillance systems](https://github.com/ayushhang/roi-object-detection-using-yolo)
+- 🏀 other projects [digit recogniser](https://github.com/ayushhang/minst-digit-recognizer)
+- 🏈 other projects [python ez](https://github.com/ayushhang/python-ez)
 - 📫 reach me via [mail](mailto:ayush.hang25@gmail.com)
 
 ---
