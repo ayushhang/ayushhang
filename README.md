@@ -9,7 +9,6 @@
 
 ---
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushhang&" alt="ayushhang" /></p>
 
 <h3 align="left">connect with me:</h3>
 <p align="left">
