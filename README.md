@@ -1,11 +1,11 @@
 <h2 align="left">hi ✌🏽, i'm ayush hang verma</h1>
 <h4 align="left">field of interest : machine learning, computer vision & graphics</h3>
 
-- 🏐 currently working on [object detection for security systems](https://github.com/ayushhang/cctv-web-app)
-- 🏉 other projects [computer vision app](https://github.com/ayushhang/object-detection-using-yolo)
-- 🏀 other projects [digit recogniser](https://github.com/ayushhang/minst-digit-recognizer)
-- 🏈 other projects [python ez](https://github.com/ayushhang/python-ez)
-- 📫 reach me via [mail](mailto:ayush.hang25@gmail.com)
+- 🏐 currently working on [Object Detection for Security Systems](https://github.com/ayushhang/cctv-web-app)
+- 🏉 [Computer Vision App](https://github.com/ayushhang/object-detection-using-yolo)
+- 🏀 [Digit Recogniser using just NumPy](https://github.com/ayushhang/minst-digit-recognizer)
+- 🏈 [Python projects for all groups](https://github.com/ayushhang/python-ez)
+- 📫 reach me via : [mail](mailto:ayush.hang25@gmail.com)
 
 ---
 
